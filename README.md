@@ -14,7 +14,7 @@ works in its own fully separate, private workspace.
 
 ## Demo
 
-https://github.com/user-attachments/assets/8a4642cb-3239-4d03-a28d-133161b28566
+<video src="https://github.com/user-attachments/assets/8a4642cb-3239-4d03-a28d-133161b28566" controls width="100%"></video>
 ---
 
 ## Contents
