@@ -12,6 +12,9 @@ of the bid process, works through the tender together, handing results from one 
 is also a **multi-tenant platform**: one installation serves many companies, and each company
 works in its own fully separate, private workspace.
 
+## Demo
+
+https://github.com/user-attachments/assets/8a4642cb-3239-4d03-a28d-133161b28566
 ---
 
 ## Contents
