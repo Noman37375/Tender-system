@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  color: var(--color-slate-900);
+  background: var(--color-slate-50);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
